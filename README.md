@@ -15,4 +15,4 @@ run nodemon to start the server
 
 `nodemon server.js`
 
-tada you can now connect to the API
+tada you can now connect to the API using `localhost:5000`
