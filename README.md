@@ -6,7 +6,7 @@ The App is live on [Todo App MERN Stack](http://fast-beyond-55649.herokuapp.com/
 
 The API is live on [Todo App MERN Stack API](https://fierce-refuge-86786.herokuapp.com/api/)
 
-## run on local server
+## Run on local server
 Clone this repository using
 `git clone https://github.com/m1ggy/todo-app-mern-server` 
 
