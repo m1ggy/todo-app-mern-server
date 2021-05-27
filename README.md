@@ -1,6 +1,6 @@
 # todo-app-mern-server
 Server of the todo-app-mern
-#APP IS LIVE
+# APP IS LIVE
 
 The App is live on [Todo App MERN Stack](https://fast-beyond-55649.herokuapp.com/)
 
