@@ -7,9 +7,9 @@ clone this repository using
 
 ## make a MongoDB account if you dont have it and copy your URI to database/connect.js
 
-run npm install to install dependencies
+install dependencies
 
-`run npm install` 
+`npm install` 
 
 run nodemon to start the server
 
