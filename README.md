@@ -1,18 +1,20 @@
 # todo-app-mern-server
-serverside of the todo-app-mern
-
+Server of the todo-app-mern
+#APP IS LIVE
+The App is live on [Todo App MERN Stack](http://fast-beyond-55649.herokuapp.com/)
+The API is live on [Todo App MERN Stack API](https://fierce-refuge-86786.herokuapp.com/api/)
 ## run on local server
-clone this repository using
+Clone this repository using
 `git clone https://github.com/m1ggy/todo-app-mern-server` 
 
-## make a MongoDB account if you dont have it and copy your URI to database/connect.js
+## Make a MongoDB account if you dont have it and copy your URI to database/connect.js
 
-install dependencies
+Install dependencies
 
 `npm install` 
 
-run nodemon to start the server
+Run nodemon to start the server
 
 `nodemon server.js`
 
-tada you can now connect to the API using `localhost:5000`
+You can now connect to the API using `localhost:5000`
