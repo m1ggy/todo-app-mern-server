@@ -14,3 +14,5 @@ run npm install to install dependencies
 run nodemon to start the server
 
 `nodemon server.js`
+
+tada you can now connect to the API
